@@ -15,8 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
---------------------------------------------------------
-To-do list demo:
+## To-do list demo:
 *Fundamentals:
 	-ListView: Display list of tasks, using ListView.builder() to create a scrollable, linear array.
 	-Navigation: Move between homepage and adding task screen.
