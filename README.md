@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## To-do list demo:
-*Fundamentals:
+1. Fundamentals:
 	- ListView: Display list of tasks, using ListView.builder() to create a scrollable, linear array.
 	- Navigation: Move between homepage and adding task screen.
 	- State management: Use setState() to add or delete a task internally.
